@@ -7,7 +7,7 @@ some ideas for what the app could display information about:
 
 -instrumental techniques
 
--fingering charts
+-fingering charts -(including lists of alternate fingerings)
 
 -music exercises
 
@@ -16,3 +16,9 @@ some ideas for what the app could display information about:
 -how to read treble and bass clef
 
 and play audio for tuning notes (and maybe exercises?)
+
+-metronome?
+
+-allow for short recordings & be able to name them (could be in the exercise section so kids could record themselves playing the exercises to show to tutors?)
+
+
