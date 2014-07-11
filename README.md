@@ -21,4 +21,4 @@ and play audio for tuning notes (and maybe exercises?)
 
 -allow for short recordings & be able to name them (could be in the exercise section so kids could record themselves playing the exercises to show to tutors?)
 
-
+oh hai
